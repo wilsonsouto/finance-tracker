@@ -1,0 +1,31 @@
+@import 'tailwindcss';
+
+/* To change the pallete tone, access: https://palette.tone-row.com/ */
+
+@theme {
+  --color-background: #ffffff;
+  --color-foreground: #111111;
+
+  --color-neutral-50: #fafafa;
+  --color-neutral-100: #f4f4f4;
+  --color-neutral-200: #e6e6e6;
+  --color-neutral-300: #d4d4d4;
+  --color-neutral-400: #a2a2a2;
+  --color-neutral-500: #727272;
+  --color-neutral-600: #535353;
+  --color-neutral-700: #404040;
+  --color-neutral-800: #272727;
+  --color-neutral-900: #181818;
+
+  --color-accent: #2196f3;
+  --color-accent-50: #f2f8ff;
+  --color-accent-100: #e0eefd;
+  --color-accent-200: #b9dffe;
+  --color-accent-300: #80c9ff;
+  --color-accent-400: #42b0ff;
+  --color-accent-500: #2196f3;
+  --color-accent-600: #2778cf;
+  --color-accent-700: #2461a6;
+  --color-accent-800: #215489;
+  --color-accent-900: #204771;
+}
