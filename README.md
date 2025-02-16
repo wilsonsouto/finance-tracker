@@ -1,20 +1,20 @@
-<!-- <h1 align="center">
-	🚧  Angular Starter Template 🚀 Under construction...  🚧
-</h1>  -->
+<h1 align="center">
+	🚧  Finance Tracker 🚀 Under construction...  🚧
+</h1> 
 
-&#xa0;
+<!-- &#xa0;
 
-<h1 align="center">Angular Starter Template</h1>
+<h1 align="center">Finance Tracker</h1>
 
 <p align="center">
 
-<img alt="GitHub Top Language Badge" src="https://img.shields.io/github/languages/top/wilsonsouto/angular-starter-template?&color=56BEB8"/>
+<img alt="GitHub Top Language Badge" src="https://img.shields.io/github/languages/top/wilsonsouto/finance-tracker?&color=56BEB8"/>
 
-<img alt="GitHub Language Count Badge" src="https://img.shields.io/github/languages/count/wilsonsouto/angular-starter-template?&color=56BEB8"/>
+<img alt="GitHub Language Count Badge" src="https://img.shields.io/github/languages/count/wilsonsouto/finance-tracker?&color=56BEB8"/>
 
-<img alt="GitHub Repository Size Badge" src="https://img.shields.io/github/repo-size/wilsonsouto/angular-starter-template?&color=56BEB8"/>
+<img alt="GitHub Repository Size Badge" src="https://img.shields.io/github/repo-size/wilsonsouto/finance-tracker?&color=56BEB8"/>
 
-<img alt="Github License Badge" src="https://img.shields.io/github/license/wilsonsouto/angular-starter-template?color=56BEB8">
+<img alt="Github License Badge" src="https://img.shields.io/github/license/wilsonsouto/finance-tracker?color=56BEB8">
 
 </p>
 
@@ -58,10 +58,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wilsonsouto/angular-starter-template
+$ git clone https://github.com/wilsonsouto/finance-tracker
 
 # Access the project folder
-$ cd angular-starter-template
+$ cd finance-tracker
 
 # Install dependencies
 $ npm install
@@ -80,4 +80,4 @@ Made with :heart: by [wilsonsouto](https://github.com/wilsonsouto)
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Back to top</a> -->
